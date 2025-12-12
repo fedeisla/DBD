@@ -1,0 +1,3 @@
+delete from Alumno_Curso ac where ac.DNI=30568989;
+DELETE FROM Alumno WHERE DNI=30568989;
+DELETE FROM Persona WHERE DNI=30568989;
