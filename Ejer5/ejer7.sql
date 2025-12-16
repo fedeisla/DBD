@@ -1,0 +1,1 @@
+Update Cliente SET telefono='221-44-00897' WHERE dni=38495444
